@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SilvaMuzime/deploy-react-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/SilvaMuzime/deploy-react-app/static/js/main.14106d6e.chunk.js",
+    "main.js.map": "/SilvaMuzime/deploy-react-app/static/js/main.14106d6e.chunk.js.map",
+    "runtime-main.js": "/SilvaMuzime/deploy-react-app/static/js/runtime-main.11476832.js",
+    "runtime-main.js.map": "/SilvaMuzime/deploy-react-app/static/js/runtime-main.11476832.js.map",
+    "static/js/2.ddafb193.chunk.js": "/SilvaMuzime/deploy-react-app/static/js/2.ddafb193.chunk.js",
+    "static/js/2.ddafb193.chunk.js.map": "/SilvaMuzime/deploy-react-app/static/js/2.ddafb193.chunk.js.map",
+    "index.html": "/SilvaMuzime/deploy-react-app/index.html",
+    "precache-manifest.aaef1cd5c5873f1d3e14bb1526edccd8.js": "/SilvaMuzime/deploy-react-app/precache-manifest.aaef1cd5c5873f1d3e14bb1526edccd8.js",
+    "service-worker.js": "/SilvaMuzime/deploy-react-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/SilvaMuzime/deploy-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ddafb193.chunk.js.LICENSE.txt": "/SilvaMuzime/deploy-react-app/static/js/2.ddafb193.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SilvaMuzime/deploy-react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11476832.js",
+    "static/js/2.ddafb193.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.14106d6e.chunk.js"
+  ]
+}
